@@ -14,3 +14,18 @@ img {
 body {
 background-color:lightblue; 
 }
+	h1 {
+    font-size: 400%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+p {
+    font-size: 20px;
+}
+li{
+	font-size: 15px;
+	
+}
